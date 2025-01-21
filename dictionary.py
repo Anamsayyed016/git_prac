@@ -69,6 +69,8 @@ data = {"Ajay":23,"Vikas":14,"Arun":56}
 # a=data["Ajay"]
 a=data.get("Aman")
 print(a)
+print(a)
+
 
 #setdefault()
 
