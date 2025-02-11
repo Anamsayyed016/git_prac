@@ -56,7 +56,18 @@ set2={10,52,20,60}
 
 # ADD:-
 
-set1.add('Sayyed')
-set2.add(41)
-print(set1)
-print(set2)
+# set1.add('Sayyed')
+# set2.add(41)
+# print(set1)
+# print(set2)
+
+
+# my_set={'Anam',10,12,'Sayyed',52,23}
+# print(my_set)
+# print(type(my_set))
+
+set1={'Anam','Ali','Roy'}
+set2={12,20,21,36,23}
+
+print(max(set1),max(set2))
+print(min(set1),min(set2))
